@@ -4,6 +4,8 @@ Jason Sekhon(Captain), Eric Lin(Mate), Morris Arroyo(Mate)
 
 -----------------------
 
+* Completed delta issue. Added delta folder and force controller inside it. updated menubar item delta to "/delta/force"
+
 * Completed alpha issue. Added able controller and updated menubar link for Alpha to "/able"
 
 * Added changelog and setup project files
