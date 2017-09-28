@@ -5,6 +5,8 @@ Jason Sekhon(Captain), Eric Lin(Mate), Morris Arroyo(Mate)
 -----------------------
 * Completed golf issue. Added golf controller and routed i/(:any) to golf
 
+* Completed juliet issue. Added route for link that redirect to "juliet"
+
 * Completed kilo issue. Added route for links that redirect to "show/#"
 
 * Completed india issue. Added india controller and made it link to an image. updated menubar item for india to link to "/india"
