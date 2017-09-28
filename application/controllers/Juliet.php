@@ -1,8 +1,9 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Golf extends Application
+class Juliet extends CI_Controller
 {
+
     function __construct()
     {
         parent::__construct();
@@ -13,8 +14,9 @@ class Golf extends Application
      */
     public function index()
     {
-        // this is the view we want shown
-        $this->show(6);
+        $record = $this->quotes->get(1);
+        header("Content-type: application/json");
+        echo json_encode($record);
     }
 
 }

@@ -8,13 +8,13 @@ $config['menu_choices'] = array(
         array('name' => 'Bravo', 'link' => '/Bravo'),
         array('name' => 'Charlie', 'link' => '/Charlie/Brown'),
         array('name' => 'Delta', 'link' => '/Delta/Force'),
-        array('name' => 'Echo', 'link' => '#'),
+        array('name' => 'Echo', 'link' => '/Echo/Must/wehave'),
         array('name' => 'Foxtrot', 'link' => '/foxtrot/'),
-        array('name' => 'Golf', 'link' => '#'),
-        array('name' => 'Hotel', 'link' => 'bananas/rule'),
+        array('name' => 'Golf', 'link' => '/i/need/a/hobby'),
+        array('name' => 'Hotel', 'link' => '/bananas/rule'),
         array('name' => 'India', 'link' => '/India'),
-        array('name' => 'Juliet', 'link' => '#'),
-        array('name' => 'Kilo', 'link' => '#'),
+        array('name' => 'Juliet', 'link' => '/Juliet'),
+        array('name' => 'Kilo', 'link' => '/show/2'),
         )
     );
 
