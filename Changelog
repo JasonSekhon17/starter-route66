@@ -3,6 +3,7 @@ Group #19
 Jason Sekhon(Captain), Eric Lin(Mate), Morris Arroyo(Mate)
 
 -----------------------
+* Completed bravo issue. Added bravo folder and welcome controller inside it. updated menubar item bravo to "/bravo"
 
 * Completed delta issue. Added delta folder and force controller inside it. updated menubar item delta to "/delta/force"
 
