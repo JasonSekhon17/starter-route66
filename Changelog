@@ -3,8 +3,9 @@ Group #19
 Jason Sekhon(Captain), Eric Lin(Mate), Morris Arroyo(Mate)
 
 -----------------------
-
 * Completed india issue. Added india controller and made it link to an image. updated menubar item for india to link to "/india"
+
+* Completed foxtrot issue. Added tango controller and routed foxtrot to "tango/index"
 
 * Completed bravo issue. Added bravo folder and welcome controller inside it. updated menubar item bravo to "/bravo"
 
