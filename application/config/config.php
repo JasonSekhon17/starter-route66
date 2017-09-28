@@ -11,7 +11,7 @@ $config['menu_choices'] = array(
         array('name' => 'Echo', 'link' => '/Echo/Must/wehave'),
         array('name' => 'Foxtrot', 'link' => '/foxtrot/'),
         array('name' => 'Golf', 'link' => '/i/need/a/hobby'),
-        array('name' => 'Hotel', 'link' => '#'),
+        array('name' => 'Hotel', 'link' => '/bananas/rule'),
         array('name' => 'India', 'link' => '/India'),
         array('name' => 'Juliet', 'link' => '/Juliet'),
         array('name' => 'Kilo', 'link' => '/show/2'),
