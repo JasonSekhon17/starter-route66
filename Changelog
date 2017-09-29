@@ -3,6 +3,7 @@ Group #19
 Jason Sekhon(Captain), Eric Lin(Mate), Morris Arroyo(Mate)
 
 -----------------------
+
 * Completed hotel issue. Routed "banana" to golf controller
 
 * Completed golf issue. Added golf controller and routed i/(:any) to golf
